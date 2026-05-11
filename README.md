@@ -53,3 +53,17 @@ This repository contains a collection of Python programs implemented in **Jupyte
 1. Clone this repository:
    ```bash
    git clone https://github.com/lekhanaroji/juptyer-data-science-os-projects.git
+   1. Arrays, Dimensions, and Data Types
+Learn how to create arrays from scratch and inspect their properties.
+0-D to 3-D Arrays: Understanding the "shape" of your data.
+Data Types (dtype): Managing memory by defining integers, floats, and strings.
+2. Indexing and Slicing
+The art of accessing specific data points within a structure.
+Indexing: Fetching single elements using zero-based positions.
+Slicing: Extracting sub-sections using the [start:stop:step] syntax.
+Multi-dimensional Slicing: Navigating rows and columns in matrices.
+3. Reshaping and Iterating
+Transforming data layouts and traversing them efficiently.
+Reshaping: Changing a 1D vector into a 2D matrix or 3D tensor without changing the data.
+nditer: Using NumPy’s optimized iterator to loop through multi-dimensional arrays efficiently.
+
