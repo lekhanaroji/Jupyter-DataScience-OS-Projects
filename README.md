@@ -52,4 +52,4 @@ This repository contains a collection of Python programs implemented in **Jupyte
 ## ⚙️ How to Run
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
+   git clone https://github.com/lekhanaroji/juptyer-data-science-os-projects.git
